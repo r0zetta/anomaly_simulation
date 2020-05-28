@@ -9,7 +9,7 @@ In this repo, you'll find a cyber security distributed anomaly detection simulat
 3. Run `python test_game.py`
 
 If everything went well, you should see the following:
-![example output](images/example.png)
+![example output](images/example_output.png)
 
 ## Troubleshooting
 - make sure you're using Python 3.x to run this. You might need to specify `python3` at the command-line
