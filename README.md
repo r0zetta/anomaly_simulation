@@ -8,6 +8,9 @@ In this repo, you'll find a cyber security distributed anomaly detection simulat
 2. Open a terminal and cd to the directory containing the files you downloaded. Make sure to expand the size of your terminal window, and set the background color to black (e.g. on Mac, open a window using the "Homebrew" profile).
 3. Run `python test_game.py`
 
+If everything went well, you should see the following:
+![example output](images/example.png)
+
 ## Troubleshooting
 - make sure you're using Python 3.x to run this. You might need to specify `python3` at the command-line
 - your default Python installation may have not included numpy. To install it, run the following at the command-prompt:
