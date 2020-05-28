@@ -48,4 +48,4 @@ Currently the script is hard-coded to simulate 3000 nodes. The `num_agents` vari
 
 The attacker's "aggressiveness" is defined by the `compromised_modifier` variable in the `game_space` class. Higher values make it more likely that the attacker will compromise systems. 
 
-You can use this simulation to generate data (without showing the visual output) by running `generate_data.py`. This script will continually run simulations for 2016 steps, with random `comrpomised_modifier` values and write the resulting output to sequentially numbered files under a directory named **saves**. The data is written in json format.
+You can use this simulation to generate data (without showing the visual output) by running `generate_data.py`. This script will continually run simulations for 2016 steps, with random `compromised_modifier` values and write the resulting output to sequentially numbered files under a directory named **saves**. The data is written in json format.
